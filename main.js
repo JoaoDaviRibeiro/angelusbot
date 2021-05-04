@@ -49,4 +49,3 @@ client.on('message', message =>{
 
 })
 
-client.login('ODI2OTU2Mjc3NzYyNDkwMzg4.YGUBDA.PgF7hSVPp7D9NOjW-O3FwvRU6sg')
