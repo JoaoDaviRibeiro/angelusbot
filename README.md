@@ -1,2 +1,2 @@
-# angelusbot
-Discord Bot made for roman catholic prayers.
+# Angelus Bot
+Discord Bot made for Roman Catholic prayers.
